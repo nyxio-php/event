@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Event;
+namespace Nyxio\Event;
 
-use Nyx\Contract\Event\EventDispatcherInterface;
+use Nyxio\Contract\Event\EventDispatcherInterface;
 
 class Dispatcher implements EventDispatcherInterface
 {

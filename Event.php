@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Event;
+namespace Nyxio\Event;
 
 class Event
 {
